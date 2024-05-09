@@ -151,6 +151,9 @@ console.log(upperFirst("ciao epicode un po ti odio")); */
  Scrivi una funzione di nome "cutString", che riceve come parametro una stringa. La funzione deve creare una nuova stringa senza il primo e l'ultimo carattere
  della stringa originale.
 */
+
+/* SCRIVI QUI LA TUA RISPOSTA */
+
 /* function cutString(stringa) {
   x = stringa.length - 1;
   let slice1 = cutString.slice(0, 1);
@@ -159,7 +162,6 @@ console.log(upperFirst("ciao epicode un po ti odio")); */
 }
 console.log(cutString("ciao Epicode"));
  */
-/* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 10
  Scrivi una funzione di nome "giveMeRandom", che accetta come parametro un numero n e ritorna un'array contenente n numeri casuali inclusi tra 0 e 10.
